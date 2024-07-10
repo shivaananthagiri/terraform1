@@ -19,6 +19,10 @@ variable "ami_id" {
   type = string
   default = "ami-0b4f379183e5706b9"
 }
+variable "zone_id" {
+  default = "Z031042439IJL1AYAHZXL"
+}
+
 
 
 
